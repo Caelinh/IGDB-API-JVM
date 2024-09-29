@@ -13,7 +13,7 @@ plugins {
 group = "io.github.husnjak"
 version = findProperty("version") as String
 
-val fuelVersion = "2.3.1"
+val fuelVersion = "3.0.0-alpha03"
 val protobufJavaVersion = "4.27.2"
 val junitJupiterVersion = "5.10.0"
 val junitPlatformVersion = "1.10.0"
